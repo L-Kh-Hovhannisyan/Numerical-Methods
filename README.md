@@ -14,7 +14,7 @@ Improved Euler - Cauchy method (with iterative processing) with refinement accor
 - x ∈ [0,1];
 - h = 0.1;
 
-Analytical solution:
+- Analytical solution:
 
 ![equation](https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B-%5Cfrac%7B1%7D%7B4%7Dx%5E4%20&plus;%20%5Cfrac%7B2%7D%7B3%7Dx%5E3%20&plus;%2012%7D%7B%28x%20-2%29%5E2%28x-3%29%7D)
 
