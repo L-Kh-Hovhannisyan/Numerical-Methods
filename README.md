@@ -3,6 +3,7 @@ Improved Euler - Cauchy method (with iterative processing) with refinement accor
 
 ## Given 1st order ODE:
 ![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdx%7D%3Df%28x%2Cy%29)
+- Example
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdx%7D%3D%5Cfrac%7B-3%20x%20y&plus;8%20y-x%5E%7B2%7D%7D%7Bx%5E%7B2%7D-5%20x&plus;6%7D)
 
