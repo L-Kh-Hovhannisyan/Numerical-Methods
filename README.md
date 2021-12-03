@@ -22,6 +22,5 @@ A PDF version of the solution can be found:
 [here](https://github.com/L-Kh-Hovhannisyan/Numerical-Methods/blob/main/Analytical%20solution.pdf).
 
 ## All results
-![equation](https://psv4.userapi.com/c536436/u409016625/docs/d27/beba7cab986a/Figure_1.png?extra=xzdGMsh4dBXp5yLFAaNnh5R2ydVrKKfkwSLcHkkB2BFxu7EUSPyW68smWokTKVS5S4EFyKnhv2k886DFg8O62RpBBnap0k1uWrl1r__jLJC0dOtQFnoV-ndECV3HrqpV_Kpj4XMgJtTDA_t45XtA_BuA)
-![equation](https://psv4.userapi.com/c536436/u409016625/docs/d30/fb3a36554a23/Figure_3.png?extra=UlPUl9JSWARAmqyt9CCHDkB23YYnaQM-W_T3ZEj_Ol-w70v_yhWCStDQg_E175n8MYTBDSpLcE1Z6iSrIOGWcSziKyck-mWKo2Ve2qpH-F7g9G2toxwGh0u0qakdikIxXsLQ2_FmihOsoqetxufM_C_R)
+![equation](https://psv4.userapi.com/c520036/u409016625/docs/d32/22a4440e9d06/Untitled.png?extra=vgi8fD4JDXKD8mpzpgB8GOTGR90k8NVByBkRartvolAkh8k8TxTbzdOdAu3niFTWTI1JTZkBGvMDNPEUR_x1Npc8SwSwFWJNnl2qI_bGE2RiaDiX7Cm6enZtbN5CdLiO6SPnOetKgStF8qC7ipvdYov4)
 
