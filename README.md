@@ -19,7 +19,7 @@ Analytical solution:
 ![equation](https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B-%5Cfrac%7B1%7D%7B4%7Dx%5E4%20&plus;%20%5Cfrac%7B2%7D%7B3%7Dx%5E3%20&plus;%2012%7D%7B%28x%20-2%29%5E2%28x-3%29%7D)
 
 A PDF version of the solution can be found
-[here](https://vk.com/doc409016625_620323846?hash=e8bbd48b30bba37c5f&dl=059fb84b01bebb496c).
+[here](https://github.com/L-Kh-Hovhannisyan/Numerical-Methods/blob/main/Analytical%20solution.pdf).
 
 
 ![equation](https://sun9-56.userapi.com/impg/5Uqb7StUlgrHCOkCHG79oJOLOKzHJD0g6WezWA/a6KmBljpFrM.jpg?size=810x1080&quality=96&sign=062f01cdfe78d9265a30fd8da59b7865&type=album)
