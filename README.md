@@ -18,15 +18,8 @@ Analytical solution:
 
 ![equation](https://latex.codecogs.com/gif.latex?y%3D%5Cfrac%7B-%5Cfrac%7B1%7D%7B4%7Dx%5E4%20&plus;%20%5Cfrac%7B2%7D%7B3%7Dx%5E3%20&plus;%2012%7D%7B%28x%20-2%29%5E2%28x-3%29%7D)
 
-A PDF version of the solution can be found
+A PDF version of the solution can be found:
 [here](https://github.com/L-Kh-Hovhannisyan/Numerical-Methods/blob/main/Analytical%20solution.pdf).
-
-
-![equation](https://sun9-56.userapi.com/impg/5Uqb7StUlgrHCOkCHG79oJOLOKzHJD0g6WezWA/a6KmBljpFrM.jpg?size=810x1080&quality=96&sign=062f01cdfe78d9265a30fd8da59b7865&type=album)
-
-![equation](https://sun9-40.userapi.com/impg/pQh6wqSC3dVrrWkCY7Q5Dv2qhP33RIDnKg0-oQ/IsSAZ5yrTIw.jpg?size=754x1080&quality=96&sign=bd5645c724b02933a458021175facfb5&type=album)
-
-![equation](https://sun9-83.userapi.com/impg/E0RKdT5dhGL0cvX7qUje4QxzDMI2-ASdHJJxFA/EiLk0CaVoUc.jpg?size=1080x721&quality=96&sign=df50176add4cb9199ddbacc3605c4005&type=album)
 
 ## All results
 ![equation](https://psv4.userapi.com/c536436/u409016625/docs/d27/beba7cab986a/Figure_1.png?extra=xzdGMsh4dBXp5yLFAaNnh5R2ydVrKKfkwSLcHkkB2BFxu7EUSPyW68smWokTKVS5S4EFyKnhv2k886DFg8O62RpBBnap0k1uWrl1r__jLJC0dOtQFnoV-ndECV3HrqpV_Kpj4XMgJtTDA_t45XtA_BuA)
