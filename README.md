@@ -1,5 +1,4 @@
 # Numerical-Methods
-Project for Numerical Methods course at Shirak State University.
 Improved Euler - Cauchy method (with iterative processing) with refinement according to Runge rules for the Cauchy problem of 1st order ordinary differential equations.
 
 ## Given 1st order ODE:
